@@ -1,6 +1,6 @@
 # MAD - Mobile Application Development / 2020-2021 yy
 
-  How to Controls
+# How to Controls
 There is a turn right and turn left button.
 There is no brake button. The car always presses gas pedal automatically.
 #  Gameplay
