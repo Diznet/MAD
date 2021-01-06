@@ -3,7 +3,7 @@
   How to Controls
 There is a turn right and turn left button.
 There is no brake button. The car always presses gas pedal automatically.
-  Gameplay
+#  Gameplay
 Each level has a obstacle setup.
 Before starting to drive time freezes, and time unfreezes when player touches the screen.
 In each level the player drives cars one by one.
